@@ -1,0 +1,9 @@
+[submodule "frontend-plagiarism"]
+	path = frontend-plagiarism
+	url = git@github.com:therarefied/frontend-plagiarism.git
+[submodule "backend-plagiarism"]
+	path = backend-plagiarism
+	url = git@github.com:therarefied/backend-plagiarism.git
+[submodule "scripts-plagiarism"]
+	path = scripts-plagiarism
+	url = git@github.com:therarefied/scripts-plagiarism.git
